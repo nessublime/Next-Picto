@@ -1,0 +1,6 @@
+# Web Server
+web/node_modules
+web/.next
+
+#Backend Server
+server/node_modules

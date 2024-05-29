@@ -1,0 +1,19 @@
+.container {
+	border-radius: 12px;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	height: 100%;
+	max-width: 1200px;
+	background: var(--persian-green);
+	background: linear-gradient(
+		180deg,
+		var(--charcoal) 40%,
+		var(--persian-green) 100%
+	);
+	box-shadow: 0px 12px 30px -10px #000000;
+}
+
+.chat-container {
+	max-width: 300px;
+}

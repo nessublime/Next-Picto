@@ -1,0 +1,7 @@
+.container {
+	display: flex;
+	background-color: var(--black);
+	padding: 1.5rem 3rem;
+	border-radius: 100px;
+	margin-top: 2rem;
+}

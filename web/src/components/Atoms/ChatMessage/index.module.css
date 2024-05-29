@@ -1,0 +1,24 @@
+.message {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 1rem;
+	padding: 1rem;
+	border-radius: 12px;
+	background-color: var(--sandy-brown);
+	box-shadow: 0px 5px 5px -5px rgba(0, 0, 0, 0.2);
+	max-width: 50%;
+	overflow-wrap: break-word;
+}
+
+.message p {
+	margin: 0;
+	width: 100%;
+}
+
+.my-message {
+	align-self: flex-start;
+}
+
+.other-message {
+	align-self: flex-end;
+}
